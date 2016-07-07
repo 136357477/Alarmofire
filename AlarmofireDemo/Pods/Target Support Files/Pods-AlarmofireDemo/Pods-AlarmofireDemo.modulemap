@@ -1,0 +1,6 @@
+framework module Pods_AlarmofireDemo {
+  umbrella header "Pods-AlarmofireDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
